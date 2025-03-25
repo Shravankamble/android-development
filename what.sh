@@ -1,3 +1,3 @@
-#!/bin/sh
+#!/system/bin/sh
 
 echo "Hello World!"
